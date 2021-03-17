@@ -74,15 +74,21 @@ table {
   width: 98%;
 }
 
-#editor-window {
+#editor-window,
+#preview-window {
+  margin: 1em auto;
+  padding: 0.2em;
   width: 90%;
+}
+
+#editor-window {
   #editor {
     background-color: $window-background-color;
     border: 0;
     box-shadow: 0 0.2em 1em $bar-color;
     font-size: 1.2em;
     height: 100%;
-    padding: 0 1%;
+    padding: 0 5%;
     width: 98%;
     &:focus {
       border: 0.1em dotted black;
@@ -109,10 +115,4 @@ table {
 
 .hidden {
   display: none;
-}
-
-#editor-window,
-#preview-window {
-  margin: 1em auto;
-  padding: 0.2em;
 }
