@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Built based off the [example](https://codepen.io/freeCodeCamp/full/GrZVVO) and [requirements](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer) by freeCodeCamp.
+Built based on the [example](https://codepen.io/freeCodeCamp/full/GrZVVO) and [requirements](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer) by freeCodeCamp.
 
 See live on [Markdown Previewer](https://danijels.github.io/markdown-previewer)
 
